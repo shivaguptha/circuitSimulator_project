@@ -8,7 +8,7 @@ def reciprocal(a):
     if a==0:
         return a
     return 1/a
-
+#Tie-set matrix
 def B_t(tree,loop):
     b=len(tree)+len(loop)
     n=len(tree)
